@@ -1,0 +1,33 @@
+.container {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: fit-content;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1 {
+    position: relative;
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    font-size: 80pt;
+    background-color: transparent;
+}
+
+.container p {
+    position: relative;
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    font-size: 20pt;
+    color: #fff;
+    margin: 0 0 40px 0;
+}
+
+.container button {
+    font-size: 30pt;
+}
